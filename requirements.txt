@@ -1,2 +1,2 @@
-
+streamlit==24.3.1
 time
